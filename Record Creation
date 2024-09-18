@@ -1,0 +1,15 @@
+curl 'https://crm.zoho.com/crm/v2.2/Leads' \
+  -H 'sec-ch-ua: "Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'X-CRM-REF-ID: 785314091_785828753_1726642592137_1726643287316' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  -H 'X-CRM-ORG: 785828753' \
+  -H 'X-ZCSRF-TOKEN: crmcsrfparam=872eb78d38337fbf767af001ef37fc6d4b89581c376b713aef36160b58b6a586ba010f947d483eb96a24895d68469782431141028f6f79ffc1ca4612d5d059c8' \
+  -H 'X-Client-SubVersion: 3c058b00e37009b10ae21f70ef1c4482' \
+  -H 'Referer: https://crm.zoho.com/' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  -H 'X-Static-Version: 9096032' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  --data-raw '{"data":[{"Subform_2":null,"LR_Result":false,"Execute_Layout_Rule":"No","Notify_Seniors":true,"Is_Vissited":false,"Email_Opt_Out":false,"Owner":{"id":"4987372000000380001","full_name":"S Sasidharan"},"Salutation":"Mr.","Test_Picklist":"Option 1","Exchange_Rate":1,"Currency":"INR","BP":"-None-","States":"-None-","Business_Segment":"-None-","Status":"-None-","Average_Order_Values":"-None-","Date_1":null,"Type_of_Customer":"-None-","Designation_Of_Person":"-None-","Fixed_Prices":"-None-","Date_Time_2":"2024-09-18T12:00:00","Current_source_of_purchases":"-None-","Lead_Type":"-None-","Lookup_Status_Check":"-None-","Lead_Status":"-None-","Test_Decimal":46475,"Rating":"-None-","Yes_No":"-None-","Test_Level":"-None-","Lead_Source":"-None-","Industry":"-None-","Pick_List_1":"-None-","Country1":"-None-","Zone":"-None-","State1":"-None-","Last_Name":"asas","State":"sdsa","Layout":{"id":"4987372000000091055"},"$zia_owner_assignment":"owner_recommendation_unavailable","zia_suggested_users":{}}],"skip_mandatory":false}'
